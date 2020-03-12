@@ -27,3 +27,5 @@ ax3=fig.add_subplot(row,column,3)
 ax3.imshow(img3,cmap='gray')
 
 plt.show()
+# plt.show()
+# plt.show()
